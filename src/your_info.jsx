@@ -7,17 +7,18 @@ const backgroundImageUrl = 'https://images.wallpaperscraft.com/image/single/man_
 
 // Enter here your first and last name
 const name = {
-  firstname: 'Jonathan',
-  lastname: 'Dominion',
+  firstname: 'Nagy',
+  lastname: 'Fouad',
 // Enter as url a link where your resume can be downloaded ( dropbox, OneDrive, ect )
   url: 'https://www.google.com',
 };
 
 // Display your job title or skills or whatever you want in the typewriter
 const typeWriterText = [
-  'Photographer...',
+  'Software Engineer...',
   'UX/UI designer...',
   'Cool dude...'  
+  'Web Developer...' 
 ];
 
 // Social media profiles buttons
